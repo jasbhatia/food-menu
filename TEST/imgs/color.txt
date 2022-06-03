@@ -1,0 +1,31 @@
+background: #EA7C69;
+orange
+
+background: #1F1D2B;
+dark background
+
+
+background: #2D303E;
+light bg
+
+background: #EA7C69;
+orange
+
+color in search bar light
+background: #ABBBC2;
+
+2nd column light color
+#E5E5E5
+
+
+
+background: linear-gradient(180deg, #EA9769 0%, #EA6969 100%);
+first icon top
+
+
+background: #ABBBC2;
+text light under food(font barlow)
+
+medium text under dish..font barlow color white
+
+price also white and in barlow
